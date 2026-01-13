@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "明日への手紙 (instrumental)",
+  "base_artist": "Aoi Teshima",
+  "createdAt": "2026-01-13T17:19:10.403170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日への手紙",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/01_明日への手紙_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日への手紙",
+      "artist": "Teshima, Aoi",
+      "has_synced": true,
+      "path": "select/02_明日への手紙_Teshima,_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明日への手紙",
+      "artist": "鈴木雅之",
+      "has_synced": false,
+      "path": "select/03_明日への手紙_鈴木雅之.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明日への手紙",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/04_明日への手紙_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "明日への手紙",
+      "artist": "Suzuki, Masayuki",
+      "has_synced": false,
+      "path": "select/05_明日への手紙_Suzuki,_Masayuki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "9. 明日への手紙",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/06_9._明日への手紙_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "01. 明日への手紙",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/07_01._明日への手紙_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "明日への手紙",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/08_明日への手紙_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "明日への手紙",
+      "artist": "Kotone",
+      "has_synced": true,
+      "path": "select/09_明日への手紙_Kotone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "明日への手紙 - Asu e no Tegami",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/10_明日への手紙_-_Asu_e_no_Tegami_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "明日への手紙(ドラマバージョン) - Asu e no Tegami(Drama Version)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/11_明日への手紙(ドラマバージョン)_-_Asu_e_no_Tegami(Drama_Version)_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "明日への手紙(ドラマバージョン)",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/12_明日への手紙(ドラマバージョン)_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "5. 明日への手紙(ドラマバージョン)（2021 Remastering)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/13_5._明日への手紙(ドラマバージョン)(2021_Remastering)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "明日への手紙(ドラマバージョン)",
+      "artist": "手嶌葵",
+      "has_synced": false,
+      "path": "select/14_明日への手紙(ドラマバージョン)_手嶌葵.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "明日への手紙(ドラマバージョン)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/15_明日への手紙(ドラマバージョン)_手嶌葵.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_01_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_02_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_03_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_04_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_05_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_06_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_07_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_08_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_09_明日への手紙_手嶌_葵.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "明日への手紙",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_10_明日への手紙_手嶌_葵.txt"
+    }
+  ]
+}
